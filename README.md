@@ -1,6 +1,8 @@
 <h1 align="center">Cześć 👋, jestem Szymon</h1>
 <h3 align="center">Junior back-end developer</h3>
 
+<section align="center">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simciutoja&label=Profile%20views&color=0e75b6&style=flat" alt="simciutoja" /> </p>
 
 - 💻 Aktualnie pracuję nad [cmd-bot](https://discord.gg/cmdshop)
@@ -22,5 +24,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simciutoja"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simciutoja" /></a><a href="https://ko-fi.com/simciutoja"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="simciutoja" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simciutoja&show_icons=true&locale=en" alt="simciutoja" /></p>
+</section>
