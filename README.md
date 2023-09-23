@@ -5,13 +5,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simciutoja&label=Profile%20views&color=0e75b6&style=flat" alt="simciutoja" /> </p>
 
-- 💻 Aktualnie pracuję nad [cmd-bot](https://discord.gg/cmdshop)
+ 💻 Aktualnie pracuję nad [cmd-bot](https://discord.gg/cmdshop)
 
-- 📚 Uczę się aktualnie **JavaScript'u**
+📚 Uczę się aktualnie **JavaScript'u**
 
-- 📱 Ostatnio pracowałem nad [praga-północ-bot](https://discord.gg/pragapln)
+📱 Ostatnio pracowałem nad [praga-północ-bot](https://discord.gg/pragapln)
 
-- 📧 Skontaktuj się ze mną **szymon@mscode.pl**
+ 📧 Skontaktuj się ze mną **szymon@mscode.pl**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
