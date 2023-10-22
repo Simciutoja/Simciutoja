@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simciutoja&label=Profile%20views&color=0e75b6&style=flat" alt="simciutoja" /> </p>
 
- 💻 Aktualnie pracuję nad [cmd-bot](https://discord.gg/cmdshop)
+ 💻 Aktualnie pracuję nad ---
 
 📚 Uczę się aktualnie **JavaScript'u**
 
