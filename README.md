@@ -5,11 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simciutoja&label=Profile%20views&color=0e75b6&style=flat" alt="simciutoja" /> </p>
 
- 💻 Aktualnie pracuję nad ---
+ 💻 Aktualnie pracuję nad WORD
 
-📚 Uczę się aktualnie **JavaScript'u**
-
-📱 Ostatnio pracowałem nad [praga-północ-bot](https://discord.gg/pragapln)
+📚 Junior Developer
 
  📧 Skontaktuj się ze mną **szymon@mscode.pl**
 
