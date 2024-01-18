@@ -5,11 +5,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simciutoja&label=Profile%20views&color=0e75b6&style=flat" alt="simciutoja" /> </p>
 
- 💻 Aktualnie pracuję nad WORD
+ 💻 Aktualnie uczę się JS
 
 📚 Junior Developer
 
- 📧 Skontaktuj się ze mną **szymon@mscode.pl**
+ 📧 Skontaktuj się ze mną **sbludnik@mscode.pl**
 
 <h3 align="center">Skontakuj się ze mną:</h3>
 <p align="center">
