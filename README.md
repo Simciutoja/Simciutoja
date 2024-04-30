@@ -8,7 +8,7 @@ Passionate JavaScript developer from Warsaw, Poland 🇵🇱 | UI/UX enthusiast 
 
 *   🌍  I'm based in Polska, Warszawa
 *   ✉️  You can contact me at [sbludnik@mscode.pl](mailto:sbludnik@mscode.pl)
-*   🤝  I'm open to collaborating on Projects with big potential, and great team<a href="https://www.github.com/simciutoja" target="_blank" rel="noreferrer"><img
+*   🤝  I'm open to collaborating on Projects with big potential, and great team
                  
 
 ### Skills 
