@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Szymon Bludnik
 ======================================================================================================================================
 
-Java Script Developer
+Junior front-end developer
 ---------------------
 
 Passionate JavaScript developer from Warsaw, Poland 🇵🇱 | UI/UX enthusiast | 16 years old | Transforming ideas into code with creativity and precision.
