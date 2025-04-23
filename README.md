@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Szymon Bludnik ======================================================================================================================================  Frontend & Backend developer ----------------------------  Currently thinking about: create awsome portfolio  * 🌍  I'm based in Warsaw * ✉️  You can contact me at [szymon@mscode.pl](mailto:szymon@mscode.pl) * 🤝  I'm open to collaborating on SAAS Aplications
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Szymon Bludnik ======================================================================================================================================  Frontend & Backend developer ----------------------------  Currently thinking about: create awsome portfolio  * 🌍  I'm based in Warsaw * ✉️  You can contact me at [szymon@mscode.pl](mailto:szymon@mscode.pl) * 🤝  I'm open to collaborating on SAAS Aplications
 
 ### Skills  
 
